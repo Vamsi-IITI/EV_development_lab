@@ -1,3 +1,0 @@
-/home/raghu/winter/myrobot/build/CMakeFiles/rebuild_cache.dir
-/home/raghu/winter/myrobot/build/CMakeFiles/edit_cache.dir
-/home/raghu/winter/myrobot/build/CMakeFiles/hello.dir
