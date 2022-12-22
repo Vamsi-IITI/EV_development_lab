@@ -1,6 +1,8 @@
 # EV_development_lab
 A Gazebo world depicting a typical Electric Vehicle developement lab equipped with AGVs.
 
+![image](https://user-images.githubusercontent.com/92263050/209110350-7379daa7-cf60-4cde-89f5-fcc9407921fa.png)
+
 ## Instructions :
 
 1. Open Terminal and run ``` git clone https://github.com/Vamsi-IITI/EV_development_lab.git ```
